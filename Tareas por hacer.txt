@@ -1,0 +1,30 @@
+SCRUM MASTER (Lider)
+Dueño del producto (Conocedor)
+
+
+Equipo de desarrollo
+Todos!
+1. Frontend
+2. Frontend
+2. DBA
+3. Backend
+4. Reports
+
+Ceremonias
+1. Planificacion (Objetivos)
+	Backlog (Historias -> Tareas)
+	Sprints (Lapso de entregables)
+
+TITULO
+Aplicacion de inventarios para el control de bodegas...
+Una aplicacion de ticket para un cine...
+Aplicacion de POS Ventas Supermercado...
+
+REQUERIMIENTOS
+La aplicacicion de ticket tendra un modulo donde podra reservar asientos para asistir a eventos(peliculas) en un horario establecido y el cual podra optar por clasificaciones(promociones, calidad) y poder visualizar un precio o total a pagar.
+La aplicacion tambien tendra un modulo de administracion donde por medio de formularios se podran definir estrenos, horarios, capacidades de asientos.
+
+ALCANCE...
+
+DIAGRAMA
+ casos de uso
